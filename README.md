@@ -12,7 +12,7 @@ Put these in the praw.ini file.
 
 # What this program does: 
 
-By default, this program returns TOP 3 posts & comments of subreddit learnprogramming.
+By default, this program returns TOP 3 posts & comments of subreddit learnprogramming in the past day.
 It can take up to 3 arguments. 
 
 argv[1] = name of subreddit
